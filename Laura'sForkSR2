@@ -1,1 +1,5 @@
 Hello my name is Laura! 
+Will this fork be auto merged to the main branch?
+Hello Kaylee, can I push this change to the main branch from my local computer? No...we tested it. Without being a collaborgiater we cannot push changes to main branch. 
+Now testing if we can push changes for a pull request to the fork only. -- was able to commit (not push) fork changes however it included everything in the StudyRoomTwo Repo so unable to Git push w/ just the fork. 
+How to push just fork to repo from local? 
